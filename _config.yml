@@ -7,9 +7,13 @@ permalink:        pretty
 #relative_permalinks: true #removed per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Setup
-title:            CSX
-tagline:          'ShortName'
-description:      'Full Course Catalog Name'
+course:            CS138
+title:            'Programming with Python'
+description:      'This course introduces the Python programming language and its features. Python, a dynamic, object-oriented, extensible language, is perfect for the beginner and also meets industry needs. Python is well-suited for applications ranging from simple data manipulation to large, complex applications. C-ID COMP-122.'
+cor:              'https://miracosta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/6021?entityType=Course&reportId=329'
+logo:             'https://miracostacs.github.io/assets/images/CS2ZTC.png'
+context:          'CS138 is part of our Software Development and Data Science degrees, often a transfer requirement for institutions like UC Irvine.'
+
 url:              
 baseurl:          /
 
@@ -22,8 +26,8 @@ paginate:         5
 paginate_path:    "page:num" #added per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Custom vars
-themecolor:       'theme-base-0e'
+themecolor:       'theme-base-0c'
 version:          2.1.0
 
 github:
-  repo:           https://github.com/MiraCostaCS/CourseTemplate #replace this with specific coruse repo
+  repo:           https://github.com/MiraCostaCS/cs138

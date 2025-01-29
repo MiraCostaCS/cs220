@@ -15,7 +15,7 @@ logo:             'https://miracostacs.github.io/assets/images/CS2ZTC.png'
 context:          'CS138 is part of our Software Development and Data Science degrees, often a transfer requirement for institutions like UC Irvine.'
 
 url:              
-baseurl:          /
+baseurl:          /cs138/
 
 author:
   name:           'Nery Chapeton-Lamas'

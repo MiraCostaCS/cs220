@@ -3,7 +3,7 @@ layout: page
 title: Grant Work
 ---
 
-See [About](/about) page to see overview of grant project and methodology.
+See [About]({{ site.baseurl }}/about) page to see overview of grant project and methodology.
 
 _Note: all documents below are shared for transparency of a collaborative process between CS student interns and faculty through multi-semester development. Finalized versions will be shared through a Canvas shell and resource document once the phases above are completed._
 

@@ -11,11 +11,11 @@ course:            CS138
 title:            'Programming with Python'
 description:      'This course introduces the Python programming language and its features. Python, a dynamic, object-oriented, extensible language, is perfect for the beginner and also meets industry needs. Python is well-suited for applications ranging from simple data manipulation to large, complex applications. C-ID COMP-122.'
 cor:              'https://miracosta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/6021?entityType=Course&reportId=329'
-logo:             'https://miracostacs.github.io/assets/images/CS2ZTC.png'
+logo:             '/cs138/assets/images/CS2ZTC.png'
 context:          'CS138 is part of our Software Development and Data Science degrees, often a transfer requirement for institutions like UC Irvine.'
 
 url:              
-baseurl:          /
+baseurl:          /cs138
 
 author:
   name:           'Nery Chapeton-Lamas'

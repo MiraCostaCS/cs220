@@ -25,7 +25,12 @@ Below are the materials built in Fall 2024 and Spring 2025:
   - [Native/Indigenous Tribes](https://docs.google.com/document/d/1kjzEwAlF618eXTiId6djGS31G1vqy-n9wERBXZ4etBQ/edit?usp=sharing)
   - [Sound + Graphics](https://docs.google.com/document/d/1wFh2P13fI2xSC4RsuFm9fNT7L7gjOidJ0-dDfHs8kaA/edit?usp=sharing)
   - [Industry + Data Structures](https://docs.google.com/document/d/1uzYlEkakWgtG7gzArpKeQrWKuqAgXP9zPOODKrhIsJ0/edit?usp=sharing)
-* Labs: in progress
+* Labs: in progress, hosted on CodeHS sandbox and public repos below
+  - [Codespace Python Template](https://github.com/MiraCostaCS/MCC-Python-Codespace-Template) - all labs forked from here for ease of maintenance
+  - [Lab 01 - Food Bank Distribution Calculator](https://github.com/MiraCostaCS/CS138-L01-Food-Bank) - Functions
+  - [Lab 09 - Loteria](https://github.com/MiraCostaCS/CS138-L09-Loteria) - File IO
+  - [Lab 11 - Latin American Food Flashcards](https://github.com/MiraCostaCS/CS138-L11-LatAm-Foods) - Dictionaries and File IO
+  - [Lab 14 - TribeRecord + GUI](https://github.com/MiraCostaCS/CS138-L14-Tribe-GUI) - GUI (Tkinter) [Note: needs further testing to ensure tkinter setup properly]
 * Human Intros to CS Topics: in progress
 * Brainstorm In-Class Activities: in progress
 

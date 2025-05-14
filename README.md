@@ -1,6 +1,6 @@
 # CS138 - Programming with Python
 
-This is the course materials website for CS138 at MiraCosta College, built using [Jekyll](http://jekyllrb.com/) on GitHub Pages and the [Hyde](https://github.com/fongandrew/hydeout) theme. You can refer to those porojects on how to use, develop, test, and run this site in more detail.
+This is the course materials website for CS138 at MiraCosta College, built using [Jekyll](http://jekyllrb.com/) on GitHub Pages and the [HydeOut](https://github.com/fongandrew/hydeout) theme. You can refer to those porojects on how to use, develop, test, and run this site in more detail.
 
 ### Quick Use
 

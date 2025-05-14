@@ -29,8 +29,9 @@ Below are the materials built in Fall 2024 and Spring 2025:
   - [Native/Indigenous Tribes](https://docs.google.com/document/d/1kjzEwAlF618eXTiId6djGS31G1vqy-n9wERBXZ4etBQ/edit?usp=sharing)
   - [Sound + Graphics](https://docs.google.com/document/d/1wFh2P13fI2xSC4RsuFm9fNT7L7gjOidJ0-dDfHs8kaA/edit?usp=sharing)
   - [Industry + Data Structures](https://docs.google.com/document/d/1uzYlEkakWgtG7gzArpKeQrWKuqAgXP9zPOODKrhIsJ0/edit?usp=sharing)
-- Labs (note that all are copied from [CodeHS](https://codehs.com/) so extra testing and instruction edits may be needed):
-
+    <<<<<<< HEAD
+- Labs: hosted and built for [CodeHS](https://codehs.com/), extra testing and instruction edits may be needed for GitHub Classroom:
+  - [Codespace Python Template](https://github.com/MiraCostaCS/MCC-Python-Codespace-Template) - all labs forked from here for ease of maintenance
   - [Hello MiraCostan (First Program)](https://github.com/MiraCostaCS/CS138-L01-HelloMiraCostan)
   - [Scaled Ingredients (Input, Processing, Output)](https://github.com/MiraCostaCS/CS138-L02-ScaledIngredients)
   - [Food Bank Distribution Calculator (Functions)](https://github.com/MiraCostaCS/CS138-L03-Food-Bank/)
@@ -38,7 +39,6 @@ Below are the materials built in Fall 2024 and Spring 2025:
   - [Loteria (Lists and File Output)](https://github.com/MiraCostaCS/CS138-L09-Loteria)
   - [Latin American Food Flashcards (Dictionaries and File Input)](https://github.com/MiraCostaCS/CS138-L11-LatAm-Foods)
   - [Tribal Records (GUIs)](https://github.com/MiraCostaCS/CS138-L14-Tribe-GUI)
-
 - Human Intros to CS Topics: in progress
 - Brainstorm In-Class Activities: in progress
 - Video Captioning: in progress

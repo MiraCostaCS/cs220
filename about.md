@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# NOTE THIS IS FOR CS2ZTC, CHANGE INFO BELOW AS NEEDED
-
 <p class="message">
 "Culturally sustaining pedagogy exists wherever education sustains the lifeways of communities who have been and continue to be damaged and erased through schooling." -Django Paris
 </p>
@@ -29,4 +27,7 @@ By creating an ethos of support, we see its positive effects on the grant work t
 
 ## Team Members
 
-- Names here
+- Parisa Zaeri
+- Nathanael Atkins
+- AJ McDaniel
+- Michael Paulding

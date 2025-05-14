@@ -7,17 +7,17 @@ permalink: pretty
 #relative_permalinks: true #removed per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Setup
-course: CSX
-title: "full course catalog name"
-description: "course catalog description"
-cor: "COR link"
-logo: "logo link, make sure its in assets folder"
-context: "context info here"
+course: CS220
+title: "Computer Architecture and Assembly Language"
+description: "This course introduces the fundamental physical and structural concepts of assembly language programming. Topics include machine architecture, memory addressing, input/output, interrupts, control structures, compiling, and linking. C-ID COMP-142."
+cor: "https://miracosta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/7205?entityType=Course&reportId=329"
+logo: "/cs220/assets/images/CS2ZTC.png"
+context: "CS220 is part of our CS for Transfer (ADT) degree and Software Development (certificate and associates) degree, often a transfer requirement for a Bachelors in CS, EECS, etc."
 
 last-modified-at:
   date-format: "%m-%d-%Y"
 url:
-baseurl: /csX
+baseurl: /cs220
 
 author:
   name: "Nery Chapeton-Lamas"
@@ -30,8 +30,8 @@ paginate: 5
 paginate_path: "page:num" #added per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Custom vars
-themecolor: "theme-base-0c"
+themecolor: "theme-base-08"
 version: 2.1.0
 
 github:
-  repo: https://github.com/MiraCostaCS/CourseTemplate
+  repo: https://github.com/MiraCostaCS/cs220
